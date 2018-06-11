@@ -1,0 +1,20 @@
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\bin\Debug\ORSSimplexSolverProject.exe.config
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\bin\Debug\Problem.txt
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\bin\Debug\ORSSimplexSolverProject.exe
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\bin\Debug\ORSSimplexSolverProject.pdb
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.csprojResolveAssemblyReference.cache
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.Form1.resources
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.Properties.Resources.resources
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.csproj.GenerateResource.Cache
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.exe
+c:\users\mecki\documents\visual studio 2015\Projects\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.pdb
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\bin\Debug\ORSSimplexSolverProject.exe.config
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.exe
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.pdb
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\bin\Debug\Problem.txt
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\bin\Debug\ORSSimplexSolverProject.exe
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\bin\Debug\ORSSimplexSolverProject.pdb
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.csprojResolveAssemblyReference.cache
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.Form1.resources
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.Properties.Resources.resources
+C:\Users\Mikerad\Documents\ORSSimplexSolverProject\ORSSimplexSolverProject\obj\Debug\ORSSimplexSolverProject.csproj.GenerateResource.Cache
